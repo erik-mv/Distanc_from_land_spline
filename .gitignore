@@ -1,0 +1,25 @@
+# Data
+data/*
+example/NearestNDInterpolator
+*.list
+/output_model
+/result*
+
+
+# Pycache
+.qodo
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*-checkpoint.ipynb
+.venv
+*.egg*
+build/*
+_C.*
+outputs/*
+checkpoints/*.pt
+demo/backend/checkpoints/*.pt
+
+# Logfile
+/logs
